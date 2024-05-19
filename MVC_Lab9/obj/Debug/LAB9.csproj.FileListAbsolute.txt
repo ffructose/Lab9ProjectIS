@@ -1,0 +1,10 @@
+D:\унік\ПроєктіС\9\LAB9\bin\Debug\LAB9.exe.config
+D:\унік\ПроєктіС\9\LAB9\bin\Debug\LAB9.exe
+D:\унік\ПроєктіС\9\LAB9\bin\Debug\LAB9.pdb
+D:\унік\ПроєктіС\9\LAB9\obj\Debug\LAB9.csproj.AssemblyReference.cache
+D:\унік\ПроєктіС\9\LAB9\obj\Debug\LAB9.View.resources
+D:\унік\ПроєктіС\9\LAB9\obj\Debug\LAB9.Properties.Resources.resources
+D:\унік\ПроєктіС\9\LAB9\obj\Debug\LAB9.csproj.GenerateResource.cache
+D:\унік\ПроєктіС\9\LAB9\obj\Debug\LAB9.csproj.CoreCompileInputs.cache
+D:\унік\ПроєктіС\9\LAB9\obj\Debug\LAB9.exe
+D:\унік\ПроєктіС\9\LAB9\obj\Debug\LAB9.pdb

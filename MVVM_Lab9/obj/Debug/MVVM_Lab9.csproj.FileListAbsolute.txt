@@ -1,0 +1,15 @@
+D:\унік\ПроєктіС\9\MVVM_Lab9\bin\Debug\MVVM_Lab9.exe.config
+D:\унік\ПроєктіС\9\MVVM_Lab9\bin\Debug\MVVM_Lab9.exe
+D:\унік\ПроєктіС\9\MVVM_Lab9\bin\Debug\MVVM_Lab9.pdb
+D:\унік\ПроєктіС\9\MVVM_Lab9\obj\Debug\MVVM_Lab9.csproj.AssemblyReference.cache
+D:\унік\ПроєктіС\9\MVVM_Lab9\obj\Debug\MainWindow.g.cs
+D:\унік\ПроєктіС\9\MVVM_Lab9\obj\Debug\App.g.cs
+D:\унік\ПроєктіС\9\MVVM_Lab9\obj\Debug\MVVM_Lab9_MarkupCompile.cache
+D:\унік\ПроєктіС\9\MVVM_Lab9\obj\Debug\MVVM_Lab9_MarkupCompile.lref
+D:\унік\ПроєктіС\9\MVVM_Lab9\obj\Debug\MainWindow.baml
+D:\унік\ПроєктіС\9\MVVM_Lab9\obj\Debug\MVVM_Lab9.g.resources
+D:\унік\ПроєктіС\9\MVVM_Lab9\obj\Debug\MVVM_Lab9.Properties.Resources.resources
+D:\унік\ПроєктіС\9\MVVM_Lab9\obj\Debug\MVVM_Lab9.csproj.GenerateResource.cache
+D:\унік\ПроєктіС\9\MVVM_Lab9\obj\Debug\MVVM_Lab9.csproj.CoreCompileInputs.cache
+D:\унік\ПроєктіС\9\MVVM_Lab9\obj\Debug\MVVM_Lab9.exe
+D:\унік\ПроєктіС\9\MVVM_Lab9\obj\Debug\MVVM_Lab9.pdb
